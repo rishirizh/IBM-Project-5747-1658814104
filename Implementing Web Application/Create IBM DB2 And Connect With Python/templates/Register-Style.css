@@ -1,0 +1,23 @@
+body {
+    background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 50%, rgba(252,176,69,1) 100%);
+    font-family: 'Times New Roman', Times, serif;
+}
+
+input:hover {
+    border-color: rgb(25, 20, 20);
+}
+
+button:hover {
+    background: green;
+    background-color: dark blue;
+    border-color: black;
+}
+
+h1 {
+    font-family: 'Courier New', Courier, monospace;
+    color: darkolivegreen;
+}
+
+#qwerty {
+    margin-top: 15em;
+}
